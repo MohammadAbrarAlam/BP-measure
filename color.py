@@ -16,7 +16,7 @@ plt.scatter(
 
 plt.xlabel('Days')
 plt.ylabel('Increase BP')
-plt.title('Pressure Blood')
+plt.title('Patient Pressure Blood')
 plt.show()
 
 # Second graph
